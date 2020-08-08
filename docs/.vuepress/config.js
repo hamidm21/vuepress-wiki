@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   lang: 'fa-IR',
-  title: 'قالب VuePress',
+  title: 'ویکی روبونئو',
   description: 'پیش‌نمایش نسخه راست به چپ قالب پیش فرض',
   theme: 'default-rtl',
   themeConfig: {
